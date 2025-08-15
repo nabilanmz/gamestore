@@ -1,6 +1,9 @@
+<!-- This means that it's  a Web project and here,
+we'll be importing a bunch of libraries and dependencies for it -->
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
+    <!-- We have all of the APIs that are available in Version 8 of the .NET SDK -->
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
